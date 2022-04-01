@@ -9,7 +9,7 @@
     "@orby/core": "^0.1.7"
   },
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.4.1"
   },
   "browserslist": [
     ">0.25%",
